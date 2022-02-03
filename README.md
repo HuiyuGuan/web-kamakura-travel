@@ -3,4 +3,4 @@ This project is from Design and Implementation of Large-Scale Web Applications c
 
 This project include home, gallery , direction, events and sale pages.
 
-link for demo : https://huiyuguan.github.io/web-kamakura-travel/home.html
+link for demo : https://huiyuguan.github.io/web-kamakura-travel/project/home.html
